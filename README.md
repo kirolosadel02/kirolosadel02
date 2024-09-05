@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Kirolos Adel!
 
-![Kirolos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirolosadel02&show_icons=true&theme=radical&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirolosadel02&layout=compact&theme=radical)
+![kirolosadel02's Stats](https://github-readme-stats.vercel.app/api?username=kirolosadel02&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![kirolosadel02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirolosadel02&theme=nightowl&hide_border=false)
+![kirolosadel02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirolosadel02&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 I'm a third-year **Computer Science** student at Cairo University, passionate about software development and back-end engineering. I've gained hands-on experience through internships at **CIB** and **EVA Pharma**, where I developed RESTful APIs using .NET Core Web API and implemented security features like rate limiting.
 
