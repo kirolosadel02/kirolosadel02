@@ -61,11 +61,11 @@ Currently, I'm enhancing my skills in advanced algorithms, data structures, and 
 
 ## 🚀 Projects
 
-- **[Vole Machine Simulator](#) | Nov 2023**  
-  Developed a Vole machine simulator with a user-friendly interface, step-by-step instruction execution, and state visualization using UML class diagrams.
-
 - **[Library Management System](#) | April 2024**  
   Collaborated with a team to develop a Library Management System using Django, facilitating user authentication, book browsing, and borrowing functionalities.
+
+- **[Vole Machine Simulator](#) | Nov 2023**  
+  Developed a Vole machine simulator with a user-friendly interface, step-by-step instruction execution, and state visualization using UML class diagrams.
 
 - **[Image Processor](#) | Oct 2023**  
   Created a C++ console application for image processing with filters for grayscale and RGB BMP images, utilizing object-oriented programming principles.
