@@ -49,7 +49,6 @@ Currently, I'm enhancing my skills in advanced algorithms, data structures, and 
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-  ![OOP](https://img.shields.io/badge/OOP-Object--Oriented%20Programming-blue)
 
 - **Soft Skills:**  
   ![Decision-Making](https://img.shields.io/badge/Decision--Making-%23FFC107.svg?style=flat-square)
