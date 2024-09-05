@@ -68,11 +68,11 @@ I'm a passionate third-year **Computer Science** student at Cairo University, cu
 ## 📫 How to Reach Me
 
 - **Email:** [keroadel567@gmail.com](mailto:keroadel567@gmail.com)
-- **LinkedIn:** [Kirolos Adel Nan](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [KirolosAdel](https://github.com/KirolosAdel)
+- **LinkedIn:** [Kirolos Adel Nan](https://www.linkedin.com/in/kirolos-adel-43a1331aa/)
+- **GitHub:** [KirolosAdel](https://github.com/kirolosadel02)
 
 ---
 
-![Kirolos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirolosAdel&show_icons=true&theme=radical)
+![Kirolos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirolosadel02&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirolosAdel&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirolosadel02&layout=compact&theme=radical)
