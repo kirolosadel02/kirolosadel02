@@ -8,9 +8,7 @@ Currently, I'm enhancing my skills in advanced algorithms, data structures, and 
 
 ---
 
-![kirolosadel02's Stats](https://github-readme-stats.vercel.app/api?username=kirolosadel02&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 ![kirolosadel02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirolosadel02&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
-![kirolosadel02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirolosadel02&theme=nightowl&hide_border=false)
 
 
 ---
