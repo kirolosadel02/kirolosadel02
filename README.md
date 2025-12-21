@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kirolos Adel!
 
-I'm a third-year **Computer Science** student at Cairo University, passionate about software development and back-end engineering. I've gained hands-on experience through internships at **CIB** and **EVA Pharma**, where I developed RESTful APIs using .NET Core Web API and implemented security features like rate limiting.
+I'm a senior **Computer Science** student at Cairo University, passionate about software development and back-end engineering. I've gained hands-on experience through internships at **CIB** and **EVA Pharma**, where I developed RESTful APIs using .NET Core Web API and implemented security features like rate limiting.
 
 Proficient in **C++**, **C#**, **Python**, and **Java**, I've worked on projects such as a **Image Processor** and a **Library Management System**, utilizing technologies like Django and SQL. I'm also actively involved in competitive programming, including the **ECPC 2023**.
 
