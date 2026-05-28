@@ -1,89 +1,100 @@
-# Hi there 👋, I'm Kirolos Adel!
+<h1 align="center">Hi there 👋, I'm Kirolos Adel!</h1>
+<h3 align="center">Senior Computer Science Student | Back-End Software Engineer</h3>
 
-I'm a senior **Computer Science** student at Cairo University, passionate about software development and back-end engineering. I've gained hands-on experience through internships at **CIB** and **EVA Pharma**, where I developed RESTful APIs using .NET Core Web API and implemented security features like rate limiting.
+<p align="center">
+  Building scalable .NET Web APIs and production-grade systems with modular architectures (CQRS, Clean Architecture). Strong problem solver with a competitive programming background.
+</p>
 
-Proficient in **C++**, **C#**, **Python**, and **Java**, I've worked on projects such as a **Image Processor** and a **Library Management System**, utilizing technologies like Django and SQL. I'm also actively involved in competitive programming, including the **ECPC 2023**.
+<p align="center">
+  <a href="mailto:keroadel567@gmail.com"><img src="https://img.shields.io/badge/Email-keroadel567%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kirolos-adel-43a1331aa/"><img src="https://img.shields.io/badge/LinkedIn-Kirolos%20Adel-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-4CAF50?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Phone-%2B201201542323-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
+</p>
 
-Currently, I'm enhancing my skills in advanced algorithms, data structures, and C++ programming. I'm eager to apply my knowledge to impactful projects and connect with professionals in the tech industry.
-
----
-
-![kirolosadel02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirolosadel02&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirolosadel02&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=bfcefa" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirolosadel02&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=bfcefa" height="160" alt="top languages"  />
+</div>
 
 ---
 
 ## 💼 Experience
 
-- **Back-End Software Engineering Intern at EVA Pharma**  
-  *Jul 2024 - Aug 2024*  
-  Developed and optimized RESTful APIs using .NET Core Web API. Gained insights into the pharmaceutical industry and implemented rate-limiting middleware to enhance application performance and security. This experience contributed to winning the EVA Pharma Hackathon for Best Project.
+- **Freelance Back-End Engineer** | *FitBall Football Academy System* (Jan 2026 - Feb 2026)
+  - Led end-to-end development of a production-grade system used by 15+ staff members to manage 1000+ trainees, eliminating manual registration workflows.
+  - Built a .NET 8 Web API with JWT authentication and Role-Based Access Control (RBAC).
+  - Designed a scalable relational database using Entity Framework Core and SQL Server, implementing validation, DTO mapping, and CSV reporting features.
 
-- **Intern at CIB (Commercial International Bank)**  
-  *Aug 2023 - Sep 2023*  
-  Completed a one-month internship at CIB, gaining hands-on experience in Fintech, Data Analysis, and Banking.
+- **AI Trainer** | *Outlier AI* (Present)
+  - Providing expertise in software engineering to guide AI models in solving complex programming challenges.
+  - Evaluating, analyzing, and ranking AI-generated code outputs to ensure accuracy, efficiency, and adherence to best coding practices.
+
+- **Back-End Software Engineering Intern** | *EVA Pharma* (Jul 2025 - Aug 2025)
+  - Contributed to an ERP system to automate shortage tracking for 2000+ pharmacy items, saving hours of manual operational effort.
+  - Applied CQRS to separate read/write operations, enhancing scalability and maintainability.
+
+- **Back-End Software Engineering Intern** | *EVA Pharma* (Jul 2024 - Aug 2024)
+  - Developed .NET Core Web APIs for the "On Care Emergency Card" project (Hackathon Winner).
+  - Integrated external services via Refit and implemented rate-limiting middleware for API security.
+
+- **Intern** | *CIB (Commercial International Bank)* (Aug 2023 - Sep 2023)
+  - Gained hands-on experience in Fintech, Data Analysis, and Banking.
 
 ---
 
-## 🛠️ Skills
+## 🚀 Featured Projects
+
+- **Meezan Financial App (Graduation Project)** | *March 2026*
+  - Designed and built a modular monolith backend with 3 domains (Auth, Transactions, User Profile) using Clean Architecture and DDD principles.
+  - Integrated AI-assisted transaction input (speech-to-text, OCR), reducing manual entry time by ~80%.
+  - Applied CQRS with MediatR across 15+ endpoints.
+  - Containerized using Docker and orchestrated services with .NET Aspire and Hangfire for background processing.
+
+- **Library Management System** | *April 2024*
+  - Collaborated to develop a system using Django, HTML, CSS, and JS, facilitating user authentication, book browsing, and borrowing functionalities.
+
+- **Vole Machine Simulator** | *Nov 2023*
+  - Developed a simulator with a user-friendly interface, step-by-step instruction execution, and state visualization.
+
+- **Image Processor & Hospital System** | *Aug-Oct 2023*
+  - Created C++ console applications for image processing (grayscale, RGB BMP filters) and hospital patient management leveraging OOP principles.
+
+---
+
+## 🛠️ Skills & Technologies
 
 - **Programming Languages:**  
-  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) 
-  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- **Web Development:**  
-  ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-  ![.NET Core](https://img.shields.io/badge/.NET%20Core-%235C2D91.svg?style=flat-square&logo=.net&logoColor=white)
+- **Back-End & Architecture:**  
+  ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+  ![REST API](https://img.shields.io/badge/RESTful%20API-005571?style=flat-square)
+  ![CQRS & MediatR](https://img.shields.io/badge/CQRS%20%26%20MediatR-4A4A55?style=flat-square)
+  ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2F4F4F?style=flat-square)
+  ![Hangfire](https://img.shields.io/badge/Hangfire-00599C?style=flat-square)
 
-- **Database Management:**  
-  ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+- **Databases:**  
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square)
 
-- **Tools & Technologies:**  
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-
-- **Soft Skills:**  
-  ![Decision-Making](https://img.shields.io/badge/Decision--Making-%23FFC107.svg?style=flat-square)
-  ![Team Work](https://img.shields.io/badge/Team%20Work-%2300BFFF.svg?style=flat-square)
-  ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%23FF5733.svg?style=flat-square)
-  ![Resiliency](https://img.shields.io/badge/Resiliency-%238E44AD.svg?style=flat-square)
-
----
-
-## 🚀 Projects
-
-- **[Library Management System](#) | April 2024**  
-  Collaborated with a team to develop a Library Management System using Django, facilitating user authentication, book browsing, and borrowing functionalities.
-
-- **[Vole Machine Simulator](#) | Nov 2023**  
-  Developed a Vole machine simulator with a user-friendly interface, step-by-step instruction execution, and state visualization using UML class diagrams.
-
-- **[Image Processor](#) | Oct 2023**  
-  Created a C++ console application for image processing with filters for grayscale and RGB BMP images, utilizing object-oriented programming principles.
-
-- **[Hospital System](#) | Aug 2023**  
-  Designed a console application in C++ to manage hospital patients across different specializations, ensuring efficient patient tracking and doctor assignment.
+- **DevOps & Tools:**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![.NET Aspire](https://img.shields.io/badge/.NET%20Aspire-512BD4?style=flat-square)
+  ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education & Achievements
 
-- **EVA Pharma Hackathon**  
-  Awarded Best Project for contributing to the On Care Emergency Card project, a critical application designed for emergency healthcare services.
-
-- **ECPC 2023**  
-  Competed in the Egyptian Collegiate Programming Contest, sharpening my problem-solving and competitive programming skills.
-
----
-
-## 📫 How to Reach Me
-
-- **Email:** [keroadel567@gmail.com](mailto:keroadel567@gmail.com)
-- **LinkedIn:** [Kirolos Adel Nan](https://www.linkedin.com/in/kirolos-adel-43a1331aa/)
-- **GitHub:** [KirolosAdel](https://github.com/kirolosadel02)
+- **Cairo University** | *B.Sc. Computer Science* (Oct 2022 - Jun 2026) | GPA: 3.2/4
+- **EVA Pharma Hackathon Best Project** | Contributed to the *On Care Emergency Card* critical healthcare application.
+- **ECPC 2023** | Competed in the Egyptian Collegiate Programming Contest (ICPC), honing problem-solving and competitive programming skills.
